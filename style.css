@@ -1,0 +1,9 @@
+.social {
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+    width: 62px;
+    height: 62px;
+    margin-top: 8px;
+    margin-right: 5px;
+}
